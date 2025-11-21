@@ -1,3 +1,3 @@
 # solo
-hello local
+hello remotely
 djfkldsajf
