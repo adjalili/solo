@@ -1,3 +1,0 @@
-# solo
-hello remotely
-djfkldsajf
